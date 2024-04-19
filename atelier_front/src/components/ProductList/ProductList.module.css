@@ -1,0 +1,8 @@
+.item{
+    padding: 20px;
+    border: 1px solid black;
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+}
